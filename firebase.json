@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "openai-gpt3",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
