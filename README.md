@@ -1,7 +1,9 @@
 # GPT-3 (Generative Pre-trained Transformer 3) Website
 
 ![Desktop View](./public/images/desktop.png)
+
 ![Tablet View](./public/images/tablet.png)
+
 ![Mobile View](./public/images/mobile.png)
 
 This project is a frontend single page website of GPT-3, the predecessor of ChatGPT. An AI model by OpenAI that generates human-like text, completes language tasks, and generates code.
